@@ -25,6 +25,9 @@ I'm a passionate Full Stack Engineer who loves blending creativity with technolo
 - HTML5, CSS3, JavaScript
 - Angular
 
+### Cloud
+- AWS
+
 
 ### Tools & Platforms
 - JIRA
@@ -57,8 +60,8 @@ I'm a passionate Full Stack Engineer who loves blending creativity with technolo
 
 ## 🤝 Let's Connect!
 
-- **LinkedIn**: [mvickymca](https://www.linkedin.com/in/vigneshwaran-muthurathinamrathinam/)
--**StackOverflow**[mvickymca](https://stackoverflow.com/users/6670943/vigneshwaran-m)
+- **LinkedIn**: [vigneshwaran](https://www.linkedin.com/in/vigneshwaran-muthurathinamrathinam/)
+- **StackOverflow**[vigneshwaran](https://stackoverflow.com/users/6670943/vigneshwaran-m)
 
 ---
 
