@@ -6,7 +6,7 @@
 
 I'm a passionate Full Stack Engineer who loves blending creativity with technology. 
 
-- 🔭 I'm currently working on my **Cognizant Technology Solutions**
+- 🔭 I'm currently working on **Cognizant Technology Solutions**
 - 🌱 I'm learning **AWS**, **Airflow**, and **Advanced JavaScipt**
 - 🎯 2025 Goals: Master in full-stack development and contribute to open source
 - 📫 Reach me at: mvickymca@gmail.com
